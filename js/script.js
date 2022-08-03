@@ -261,8 +261,8 @@ function criarPalavraSecreta () {
 
 
 
-    console.log(palavraSecretaSorteada)
-    console.log(palavraSecretaCategoria)
+    // console.log(palavraSecretaSorteada)
+    // console.log(palavraSecretaCategoria)
 }
 montarPalavraNaTela ()
 function montarPalavraNaTela () {
